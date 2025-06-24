@@ -1,0 +1,7 @@
+[
+  { "user_id": 104, "event_time": "2025-06-24T07:30:00", "event_type": "email", "device_type": "mobile" },
+  { "user_id": 104, "event_time": "2025-06-24T07:30:00", "event_type": "email", "device_type": "mobile" }, 
+  { "user_id": 104, "event_time": "2025-06-25T08:00:00", "event_type": "click", "device_type": "tablet" },
+  { "user_id": 104, "event_time": "2025-06-25T08:30:00", "event_type": "purchase", "device_type": "tablet" },
+  { "user_id": 105, "event_time": "2025-06-25T06:00:00", "event_type": "referral", "device_type": "desktop" }
+]

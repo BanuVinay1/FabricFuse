@@ -1,0 +1,8 @@
+[
+  { "user_id": 101, "event_time": "2025-06-24T08:00:00", "event_type": "login", "device_type": "mobile" },
+  { "user_id": 101, "event_time": "2025-06-24T08:20:00", "event_type": "click", "device_type": "mobile" },
+  { "user_id": 101, "event_time": "2025-06-24T09:00:00", "event_type": "purchase", "device_type": "mobile" },
+  { "user_id": 102, "event_time": "2025-06-24T10:30:00", "event_type": null, "device_type": "desktop" },
+  { "user_id": 102, "event_time": "2025-06-24T10:30:00", "event_type": null, "device_type": "desktop" }, 
+  { "user_id": 103, "event_time": "2025-06-24T11:00:00", "event_type": "click" }
+]
